@@ -19,18 +19,18 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['201220923611']
-global.premium = ['201220923611']
-global.ownernomer = '201220923611'
-global.ownername = '🐦spong bot'
-global.botname = 'spong_bot'
-global.footer = '©spong_bot.'
+global.owner = ['+201220923611']
+global.premium = ['spongbot']
+global.ownernomer = '+201220923611'
+global.ownername = '🐦spobg bot'
+global.botname = 'spong-bot'
+global.footer = '©spong.'
 global.ig = 'https://github.com/nexusNw'
 global.region = 'India, South India, Kerala'
-global.sc = 'https://instagram.com/fan___________boy0899?igshid=YmMyMTA2M2Y='
+global.sc = 'https://github.com/nexusNw/Gojo-Satoru'
 global.myweb = 'https://youtube.com/channel/UCWEy5ejr8sgT9SZvC1WMLhg'
-global.packname = 'سبونج ينجم '
-global.author = 'كلمني خد الباقي201220923611'
+global.packname = 'spong ya ngm'
+global.author = '+201220923611'
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
